@@ -3,4 +3,4 @@
 
 新浪微博：[亮亮亮亮亮靓啊](http://www.weibo.com/zxliang7)
 
- ![image](https://github.com/HebeTienCoder/XLPlainFlowLayout/raw/master/demo.gif)
+ ![](https://github.com/HebeTienCoder/XLPlainFlowLayout/raw/master/demo.gif)
