@@ -1,0 +1,2 @@
+# XLPlainFlowLayout
+可以让UICollectionView的header也支持悬停效果，类似于tableView的Plain风格
