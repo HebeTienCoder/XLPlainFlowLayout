@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D2580A17-47ED-4230-B52B-B84A4B3CCBC0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XLPlainFlowLayoutDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C1B4B90BEC9D0C44A27E08D164ECF16339AE2035</key>
+		<string>https://github.com/HebeTienCoder/XLPlainFlowLayout.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XLPlainFlowLayoutDemo/XLPlainFlowLayoutDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C1B4B90BEC9D0C44A27E08D164ECF16339AE2035</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HebeTienCoder/XLPlainFlowLayout.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1B4B90BEC9D0C44A27E08D164ECF16339AE2035</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1B4B90BEC9D0C44A27E08D164ECF16339AE2035</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XLPlainFlowLayout</string>
+		</dict>
+	</array>
+</dict>
+</plist>
